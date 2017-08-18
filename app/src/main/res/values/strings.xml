@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LEDDemo</string>
+    <string name="dummy_content">你好</string>
+</resources>
